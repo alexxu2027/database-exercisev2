@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Class roster: names and NetIDs, keep off GitHub
+data/
